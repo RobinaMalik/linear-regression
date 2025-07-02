@@ -1,4 +1,4 @@
-# machine-learning
+# linear regression cvs file
 This project applies Linear Regression to the famous Titanic dataset to explore how numeric passenger features relate to survival probability.
 
 Dataset: Titanic (from Kaggle or seaborn)
